@@ -1,0 +1,29 @@
+In order to verify this declared functionality (and all others) process as follow.
+- Go to settings contact
+- Make sure that all functionnality are toggled
+- Click on save preferences. 
+- If it's the first time the application will prompt some rational and ask for runtime permission
+- Make sure to accept those that you wan't to verify
+- Go to Emergency contact 
+- Click on Add, if it's the first time the app will ask for the access to you're contact ( if you have no contact please create one for the purpose of the app ) 
+- Once an emergency contact as been referenced, the application will send to him a message in order to test the SENS_SMS method.
+If the emergency contact referenced doesn't receive any SMS at this time, make sure that the number of the contact is correct.
+- If you wan't to make further test on the application you can try to go on the alert panel.
+- Click 3 times on the logo of DangerCase 
+- the phone should :
+  - Vibrate 1 second if you have toggled vibration on the settings
+  - Retrieve you're location if you have toggled Use Geolocation on the settings
+  - Send a SMS to you're emergency contact if you have toggled Send SMS on the settings and if you have registered emergency contact on Emergency contact panel 7
+  - Start Recording audio if you have toggled Audio Recording on the settings.
+- Once you received the SMS you can go on Alert Panel and click 3 times on SAFE in the upper right corner.
+- the phone should :
+  - Vibrate 1 second if you have toggled vibration on the settings
+  - Send a SMS to you're emergency contact if you have toggled Send SMS on the settings and if you have registered emergency contact on Emergency contact panel 7
+  - Stop Recording audio if you have toggled Audio Recording on the settings..
+- if you have toggled Audio Recording on the settings : 
+  - Go to the My Audios Panel 
+  - You should have at least one audio file you can click on Read if you wan't to Hear the communication or delete if you want the file to be deleted.
+   
+Thank you.
+
+DangerCase
